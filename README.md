@@ -36,3 +36,9 @@ Assists educators in identifying trends to guide student improvement.
 . Highlights the significance of consistent study efforts for improved academic outcomes.
 
 . Feel free to enhance or customize this content based on your specific project implementation
+
+Author: Imran Younus
+
+Email: izawad19@hhotmail.com
+
+LinkedIn: https://www.linkedin.com/in/imran-younus-031283111/
